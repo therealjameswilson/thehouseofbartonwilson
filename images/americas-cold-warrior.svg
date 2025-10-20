@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#3d2c45"/>
+      <stop offset="1" stop-color="#7f5870"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg)" width="600" height="400" rx="18"/>
+  <circle cx="480" cy="96" r="48" fill="#f7e6d5" opacity="0.4"/>
+  <circle cx="120" cy="280" r="58" fill="#f7e6d5" opacity="0.2"/>
+  <text x="72" y="150" fill="#f9f4f1" font-family="'Georgia', serif" font-size="46">America's</text>
+  <text x="72" y="210" fill="#f9f4f1" font-family="'Georgia', serif" font-size="46">Cold Warrior</text>
+  <text x="72" y="260" fill="#f3e0d7" font-family="'Georgia', serif" font-size="26">James Graham Wilson</text>
+  <text x="72" y="306" fill="#f3e0d7" font-family="'Georgia', serif" font-size="20">Leadership, memory, and national security</text>
+</svg>
