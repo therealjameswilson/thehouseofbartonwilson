@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1f3c5d"/>
+      <stop offset="1" stop-color="#0b1b2f"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg)" width="600" height="400" rx="18"/>
+  <rect x="36" y="36" width="528" height="328" fill="rgba(255,255,255,0.08)" stroke="#d7e3f4" stroke-width="3" rx="14"/>
+  <text x="60" y="120" fill="#d7e3f4" font-family="'Georgia', serif" font-size="42">Counterterrorism</text>
+  <text x="60" y="180" fill="#d7e3f4" font-family="'Georgia', serif" font-size="42">Between the Wars</text>
+  <text x="60" y="240" fill="#a4c2dc" font-family="'Georgia', serif" font-size="26">Mary S. Barton</text>
+  <text x="60" y="292" fill="#f5f0e6" font-family="'Georgia', serif" font-size="20">Interwar intelligence, diplomacy, and security</text>
+</svg>
